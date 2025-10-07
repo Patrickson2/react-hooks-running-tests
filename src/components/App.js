@@ -4,7 +4,7 @@ import Header from './Header'
 
 function App() {
   return <div className="App">
-    learn react!
+    <p>hello from the Header!</p>
     <Header/>
     <Article />
   </div>;
